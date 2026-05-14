@@ -2,7 +2,7 @@ const storyData = [
   {
     id: "instagram",
     title: "Not What Instagram Shows",
-    image: "./assets/story-1.jpg",
+    image: "./assets/story-welcome.png",
     teaser: "The reality behind the perfect posts and the friendships that actually matter.",
     detail:
       "When Mia joined, she thought sisterhood would look like matching outfits, perfect pictures, and always knowing what to say. The truth was quieter. It was someone saving her a seat after a long recruitment day. It was a sister texting, 'Are you really okay?' after noticing she got quiet. The friendships that lasted were not the ones that looked best online. They were the ones that made room for awkwardness, homesickness, and real life."
@@ -10,7 +10,7 @@ const storyData = [
   {
     id: "big-little",
     title: "Big/Little Beyond the Gifts",
-    image: "./assets/story-2.jpg",
+    image: "./assets/story-checkin.png",
     teaser: "I was terrified I wouldn't connect with my big. This is what actually happened.",
     detail:
       "Jordan worried that big/little would feel forced, especially because everyone else seemed to know exactly who they wanted. Her big did not win her over with the biggest basket. She won her over by asking what kind of support felt helpful, remembering her exam schedule, and showing up after chapter when Jordan looked overwhelmed. Their relationship became less about reveal week and more about having someone who made the chapter feel easier to enter."
@@ -18,7 +18,7 @@ const storyData = [
   {
     id: "belonging",
     title: "Belonging Without Changing",
-    image: "./assets/story-3.jpg",
+    image: "./assets/story-service.png",
     teaser: "How I learned to bring my whole self to chapter meetings and events.",
     detail:
       "Leila spent her first semester editing herself. She laughed softer, dressed safer, and tried to become the kind of member she thought the chapter expected. During a service event, a sister asked why she always apologized before sharing ideas. That question stayed with her. Slowly, Leila started bringing more of herself into the room: her humor, her culture, her opinions, her boundaries. Belonging finally felt real when she stopped shrinking to earn it."
@@ -26,7 +26,7 @@ const storyData = [
   {
     id: "voice",
     title: "Finding My Voice",
-    image: "./assets/story-4.jpg",
+    image: "./assets/story-checkin.png",
     teaser: "I joined thinking I had to change who I was. Turns out, being myself was exactly what sisterhood needed.",
     detail:
       "Avery was the quiet one in every room. She assumed leadership belonged to louder sisters, so she volunteered behind the scenes and kept her ideas private. At a sisterhood planning meeting, someone asked what would make newer members feel less nervous. Avery finally spoke up. Her idea became a welcome-night tradition, and it taught her that voice is not about being the loudest. Sometimes leadership is noticing what others miss."
@@ -34,7 +34,7 @@ const storyData = [
   {
     id: "recruitment",
     title: "The Recruitment Truth",
-    image: "./assets/story-1.jpg",
+    image: "./assets/story-welcome.png",
     teaser: "What they don't tell you about recruitment week: it's okay to feel overwhelmed and uncertain.",
     detail:
       "Sofia expected recruitment to be exciting from beginning to end, but by the third day she was exhausted. She worried everyone else had instant clarity while she had questions. A sister pulled her aside and admitted she had cried during recruitment too. That honesty changed everything. Sofia realized uncertainty did not mean she was in the wrong place. It meant she was choosing something important with her whole heart involved."
@@ -42,7 +42,7 @@ const storyData = [
   {
     id: "almost-quit",
     title: "When I Almost Quit",
-    image: "./assets/story-2.jpg",
+    image: "./assets/story-service.png",
     teaser: "My first semester was rough. Here's how I found my people within the chapter.",
     detail:
       "Camila nearly resigned after a semester of feeling like everyone already had their circle. Then a sister invited her to help set up a philanthropy table before anyone else arrived. They talked while folding shirts and arranging supplies, and that small invitation became the first thread of belonging. Camila did not need the whole chapter to know her overnight. She needed one doorway in, then another."
@@ -151,10 +151,10 @@ const pages = {
 
     <section class="section hero-gallery">
       <div class="gallery-grid">
-        <img src="./assets/story-1.jpg" alt="Sisters in circle conversation" class="gallery-image" />
-        <img src="./assets/story-2.jpg" alt="Sisters gathering together" class="gallery-image" />
-        <img src="./assets/story-3.jpg" alt="Sisters having an intimate conversation" class="gallery-image" />
-        <img src="./assets/story-4.jpg" alt="Sisters laughing and bonding outdoors" class="gallery-image" />
+        <img src="./assets/story-welcome.png" alt="Sisters in circle conversation" class="gallery-image" />
+        <img src="./assets/story-checkin.png" alt="Sisters gathering together" class="gallery-image" />
+        <img src="./assets/story-service.png" alt="Sisters having an intimate conversation" class="gallery-image" />
+        <img src="./assets/sisterhood-hero.png" alt="Sisters laughing and bonding outdoors" class="gallery-image" />
       </div>
     </section>
 
