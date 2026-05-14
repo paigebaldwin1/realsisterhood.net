@@ -10,7 +10,7 @@ const storyData = [
   {
     id: "big-little",
     title: "Big/Little Beyond the Gifts",
-    image: "./assets/story-checkin.jpeg",
+    image: "./assets/story-checkin.jpg",
     teaser: "I was terrified I wouldn't connect with my big. This is what actually happened.",
     detail:
       "Jordan worried that big/little would feel forced, especially because everyone else seemed to know exactly who they wanted. Her big did not win her over with the biggest basket. She won her over by asking what kind of support felt helpful, remembering her exam schedule, and showing up after chapter when Jordan looked overwhelmed. Their relationship became less about reveal week and more about having someone who made the chapter feel easier to enter."
