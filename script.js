@@ -2,7 +2,7 @@ const storyData = [
   {
     id: "instagram",
     title: "Not What Instagram Shows",
-    image: "./assets/story-welcome.png",
+    image: "./pictures/story-checkin.jpg",
     teaser: "The reality behind the perfect posts and the friendships that actually matter.",
     detail:
       "When Mia joined, she thought sisterhood would look like matching outfits, perfect pictures, and always knowing what to say. The truth was quieter. It was someone saving her a seat after a long recruitment day. It was a sister texting, 'Are you really okay?' after noticing she got quiet. The friendships that lasted were not the ones that looked best online. They were the ones that made room for awkwardness, homesickness, and real life."
